@@ -14,9 +14,8 @@ Os cursos da Alura são uma excelente fonte de conhecimento e prática para quem
 
 ## Estrutura do Projeto
 
-- **app/**: Contém os aplicativos Django desenvolvidos durante os estudos
-- **templates/**: Arquivos de template HTML utilizados nas aplicações
-- **static/**: Arquivos estáticos como CSS, JavaScript e imagens
+- **setup/**: Contém as configurações do projeto
+- **escola/**: Django App
 - **README.md**: Este arquivo com informações sobre o projeto
 
 ## Como Executar
